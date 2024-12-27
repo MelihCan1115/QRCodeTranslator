@@ -31,22 +31,23 @@ The **QR Code Translator** is a user-friendly web application designed to conver
 - qrcode.js: QR code generation library.
 
 #### Project File Structure
+
 qr-code-translator/
+
 |
+
 ├── index.html # Main HTML structure.
+
 ├── style.css # Visual design and layout.
+
 ├── script.js # QR code generation and customization logic.
+
 └── README.md # Project documentation.
 
-######################################
-#                                    #
-#      Thanks to the qrcode.js       #
-#      library for the ease of       #
-#      QR code generation.           #
-#      Inspired by various online    #
-#      QR code tools.                #
-#                                    #
-######################################
+                                   
+   Thanks to the qrcode.js library for the ease of QR code generation.           
+   Inspired by various online QR code tools.                
+
 
 ## TÜRKÇE ---------------------------------------------------------------------------
 
@@ -79,19 +80,21 @@ qr-code-translator/
 - qrcode.js: QR kodu oluşturma kütüphanesi.
 
 #### Proje Dosya Yapısı
+
 qr-code-translator/
+
 |
+
 ├── index.html   # Ana HTML yapısı.
+
 ├── style.css    # Görsel tasarım ve düzen.
+
 ├── script.js    # QR kod oluşturma ve özelleştirme mantığı.
+
 └── README.md    # Proje dokümantasyonu.
 
-######################################
-#                                    #
-#     QR kod oluşturmayı kolay       #
-#     hale getiren qrcode.js         #
-#     kütüphanesine teşekkürler.     #
-#     Çeşitli çevrimiçi QR kod       #
-#     araçlarından ilham alınmıştır. #
-#                                    #
-######################################
+
+                                   
+   QR kod oluşturmayı kolay hale getiren qrcode.js kütüphanesine teşekkürler.     
+   Çeşitli çevrimiçi QR kod araçlarından ilham alınmıştır. 
+
