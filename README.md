@@ -4,7 +4,6 @@
 
 ## ENGLISH
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### Project Description
 
 The **QR Code Translator** is a user-friendly web application designed to convert any valid URL into a QR code. This tool allows for customization in size and format, with options to preview and download the generated QR codes. Built with **HTML**, **CSS**, and **JavaScript**, the application leverages the `qrcode.js` library for QR code generation.
@@ -56,7 +55,6 @@ qr-code-translator/
 
 ## TÜRKÇE
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### Proje Açıklaması
 
 **QR Kod Çevirici**, herhangi bir geçerli URL'yi QR koduna dönüştürmek için geliştirilmiş kullanıcı dostu bir web uygulamasıdır. Kullanıcılara boyut ve format özelleştirme, oluşturulan QR kodlarını önizleme ve indirme seçenekleri sunar. Bu uygulama **HTML**, **CSS** ve **JavaScript** ile geliştirilmiş olup QR kod oluşturmak için `qrcode.js` kütüphanesini kullanır.
