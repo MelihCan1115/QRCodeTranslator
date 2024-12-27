@@ -49,6 +49,8 @@ qr-code-translator/
    Inspired by various online QR code tools.                
 
 
+
+
 ## TÜRKÇE ---------------------------------------------------------------------------
 
 ### Proje Açıklaması
