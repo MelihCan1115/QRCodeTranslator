@@ -1,6 +1,6 @@
 # QR Code Translator / QR Kod Çevirici
 
-## ENGLISH --------------------------------------------------------------------------
+## ENGLISH
 
 ### Project Description
 
@@ -51,7 +51,7 @@ qr-code-translator/
 
 
 
-## TÜRKÇE ---------------------------------------------------------------------------
+## TÜRKÇE
 
 ### Proje Açıklaması
 
