@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #4554fb, #9fd6f6); /* Renk geçişi */
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  text-align: center;
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px;
+}
+
+input {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#size-input {
+  width: 10%;
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 10px auto;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+#qrcode {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px auto;
+}
+
+#previews {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.preview {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#settings, #saves, #size-section {
+  margin-top: 10px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+#save-btn {
+  background-color: #28a745;
+}
+
+#save-btn:hover {
+  background-color: #218838;
+}
