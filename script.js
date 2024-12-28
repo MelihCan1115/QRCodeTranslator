@@ -52,5 +52,7 @@ document.getElementById("generate-btn").addEventListener("click", function () {
 /* license: qrcode.js MIT Lisansına sahiptir: https://davidshimjs.github.io/qrcodejs/
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    CopyRights: https://github.com/MelihCan1115 This Project created and designed by Melih Can KÖK */
+
+    console.log ("This Project created and designed by Melih Can KÖK");
   });
 });
