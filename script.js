@@ -48,5 +48,9 @@ document.getElementById("generate-btn").addEventListener("click", function () {
     link.href = dataURL;
     link.download = `qrcode.${formatSelect}`;
     link.click();
+
+/* license: qrcode.js MIT Lisansına sahiptir: https://davidshimjs.github.io/qrcodejs/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   CopyRights: https://github.com/MelihCan1115 This Project created and designed by Melih Can KÖK */
   });
 });
