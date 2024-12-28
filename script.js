@@ -2,7 +2,6 @@ document.getElementById("generate-btn").addEventListener("click", function () {
   const urlInput = document.getElementById("url-input").value;
   const qrCodeContainer = document.getElementById("qrcode");
   const settings = document.getElementById("settings");
-
   // Clear previous QR code
   qrCodeContainer.innerHTML = "";
 
@@ -48,11 +47,18 @@ document.getElementById("generate-btn").addEventListener("click", function () {
     link.href = dataURL;
     link.download = `qrcode.${formatSelect}`;
     link.click();
-
-/* license: qrcode.js MIT Lisansına sahiptir: https://davidshimjs.github.io/qrcodejs/
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   CopyRights: https://github.com/MelihCan1115 This Project created and designed by Melih Can KÖK */
-
-    console.log ("This Project created and designed by Melih Can KÖK");
+    
   });
 });
+
+console.log ("This Project created and designed by Melih Can KÖK");
+
+/* 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+License    : qrcode.js MIT Lisansına sahiptir: https://davidshimjs.github.io/qrcodejs/
+
+CopyRights : https://github.com/MelihCan1115 This Project created and designed by Melih Can KÖK 
+  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*/
